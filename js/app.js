@@ -23,7 +23,7 @@ function cargarEventListeners(){
 }
 
 
-//funciones
+//funciones agregar curso
 function agregarCurso(e){
     e.preventDefault();
 
